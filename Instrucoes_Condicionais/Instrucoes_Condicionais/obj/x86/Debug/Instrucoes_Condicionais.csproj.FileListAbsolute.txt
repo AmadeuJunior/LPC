@@ -1,0 +1,9 @@
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Instrucoes_Condicionais\Instrucoes_Condicionais\bin\Debug\Instrucoes_Condicionais.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Instrucoes_Condicionais\Instrucoes_Condicionais\bin\Debug\Instrucoes_Condicionais.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Instrucoes_Condicionais\Instrucoes_Condicionais\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Instrucoes_Condicionais\Instrucoes_Condicionais\obj\x86\Debug\Instrucoes_Condicionais.Properties.Resources.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Instrucoes_Condicionais\Instrucoes_Condicionais\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Instrucoes_Condicionais\Instrucoes_Condicionais\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Instrucoes_Condicionais\Instrucoes_Condicionais\obj\x86\Debug\Instrucoes_Condicionais.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Instrucoes_Condicionais\Instrucoes_Condicionais\obj\x86\Debug\Instrucoes_Condicionais.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\Instrucoes_Condicionais\Instrucoes_Condicionais\obj\x86\Debug\Instrucoes_Condicionais.FrmTabuada.resources

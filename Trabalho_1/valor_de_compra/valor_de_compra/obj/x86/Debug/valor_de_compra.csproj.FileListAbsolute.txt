@@ -1,0 +1,9 @@
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\valor_de_compra\valor_de_compra\bin\Debug\valor_de_compra.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\valor_de_compra\valor_de_compra\bin\Debug\valor_de_compra.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\valor_de_compra\valor_de_compra\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\valor_de_compra\valor_de_compra\obj\x86\Debug\valor_de_compra.Form1.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\valor_de_compra\valor_de_compra\obj\x86\Debug\valor_de_compra.Properties.Resources.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\valor_de_compra\valor_de_compra\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\valor_de_compra\valor_de_compra\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\valor_de_compra\valor_de_compra\obj\x86\Debug\valor_de_compra.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\valor_de_compra\valor_de_compra\obj\x86\Debug\valor_de_compra.pdb

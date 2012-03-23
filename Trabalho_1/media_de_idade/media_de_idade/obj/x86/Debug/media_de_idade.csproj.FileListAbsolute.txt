@@ -1,0 +1,9 @@
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\media_de_idade\media_de_idade\bin\Debug\media_de_idade.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\media_de_idade\media_de_idade\bin\Debug\media_de_idade.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\media_de_idade\media_de_idade\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\media_de_idade\media_de_idade\obj\x86\Debug\media_de_idade.Form1.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\media_de_idade\media_de_idade\obj\x86\Debug\media_de_idade.Properties.Resources.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\media_de_idade\media_de_idade\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\media_de_idade\media_de_idade\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\media_de_idade\media_de_idade\obj\x86\Debug\media_de_idade.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\LPC\Projetos\media_de_idade\media_de_idade\obj\x86\Debug\media_de_idade.pdb
