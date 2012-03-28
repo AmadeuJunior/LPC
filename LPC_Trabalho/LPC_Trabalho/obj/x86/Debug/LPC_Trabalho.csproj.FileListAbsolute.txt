@@ -1,0 +1,11 @@
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\bin\Debug\LPC_Trabalho.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\bin\Debug\LPC_Trabalho.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\obj\x86\Debug\LPC_Trabalho.Form1.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\obj\x86\Debug\LPC_Trabalho.Properties.Resources.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\obj\x86\Debug\LPC_Trabalho.exe
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\obj\x86\Debug\LPC_Trabalho.pdb
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\obj\x86\Debug\LPC_Trabalho.FrmAlterar.resources
+C:\Users\Junior\Documents\Ulbra\5ºSemestre\Linguagem de Programação Orientada a Objetos\projetos\LPC_Trabalho\LPC_Trabalho\obj\x86\Debug\LPC_Trabalho.Novo.resources
